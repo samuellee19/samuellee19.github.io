@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | Seungho (Samuel) Lee</title>
+    <link>https://samuellee19.github.io/tag/data-science/</link>
+      <atom:link href="https://samuellee19.github.io/tag/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://samuellee19.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Data Science</title>
+      <link>https://samuellee19.github.io/tag/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning Application on the Black-Scholes Model</title>
+      <link>https://samuellee19.github.io/project/bsm_deep_learning/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuellee19.github.io/project/bsm_deep_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing NYC Stop and Frisk Data from 2003 to 2018 Period</title>
+      <link>https://samuellee19.github.io/project/econ122_sqf/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://samuellee19.github.io/project/econ122_sqf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
