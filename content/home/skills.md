@@ -32,6 +32,10 @@ feature:
   icon: icons8-tableau-software
   icon_pack: custom
   name: Tableau
+- description: Microsoft SQL Server and PostgreSQL
+  icon: database
+  icon_pack: fas
+  name: Database
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
