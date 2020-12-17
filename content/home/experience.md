@@ -58,7 +58,7 @@ experience:
     company: Flexfit LLC
     company_url: 'https://www.ey.com/'
     location: Brea, California
-    date_start: '2020-02-03'
+    date_start: '2020-01-22'
     date_end: '2020-05-15'
     description: |2-
         * Led a team of 4 Data Science students for constructing Big Data roadmap and analyzing over 120,000 observations of global shipment data for a leading headwear distributor
