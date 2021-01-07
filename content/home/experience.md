@@ -56,7 +56,7 @@ experience:
 
   - title: Project Manager - Data Science Clinic
     company: Flexfit LLC
-    company_url: 'https://www.ey.com/'
+    company_url: 'https://www.flexfit.com/'
     location: Brea, California
     date_start: '2020-01-22'
     date_end: '2020-05-15'

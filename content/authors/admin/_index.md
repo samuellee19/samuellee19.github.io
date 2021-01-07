@@ -37,4 +37,4 @@ Seungho (Samuel) Lee is a Senior at Claremont McKenna College, studying Economic
 
 Prior to joining QCL, Samuel was the project manager for the Spring 2020 Data Science Capstone Project, which involved developing sales and marketing KPIs and designing a data pipeline for a Big Data implementation. His previous experiences also include various Benchmarking, Go-To-Market, and Digital Strategy engagements.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume_Seungho_Lee_Dec_2020.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume_Seungho_Lee_2020.pdf" "newtab" >}}resumé{{< /staticref >}}.
