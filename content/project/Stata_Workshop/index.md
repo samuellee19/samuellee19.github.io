@@ -5,7 +5,7 @@ image:
   caption: 
   focal_point: Smart
 slides: 
-summary: This workshop was designed and commenced in Fall 2020 for incoming Research Assistants at the Rose Institute.
+summary: This workshop was designed and commenced in Fall 2020 as an introductory workshop on Stata and Statistical Analysis for the 2020-2021 Academic Year. It was conducted three times (Once in Fall 2020 and Remaining in Spring 2021) with over 20 attendence.
 tags:
 - Other
 title: "QCL Workshop: Stata Tutorial"
@@ -15,4 +15,4 @@ url_slides: ""
 url_video: ""
 ---
 
-This workshop was designed and commenced in Fall 2020 for incoming Research Assistants at the Rose Institute.
+This workshop was designed and commenced in Fall 2020 as an introductory workshop on Stata and Statistical Analysis for the 2020-2021 Academic Year. It was conducted three times (Once in Fall 2020 and Remaining in Spring 2021) with over 20 attendence.
