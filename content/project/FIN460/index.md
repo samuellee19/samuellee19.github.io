@@ -1,9 +1,6 @@
 ---
 date: "2020-12-04T00:00:00Z"
 external_link: ""
-image:
-  caption: 
-  focal_point: Smart
 slides: 
 summary: The following project was conducted for Mergers & Acquisition course in Fall 2020. The PDF file includes a final pitch deck as well as valuation and deal boundaries assessments.
 tags:

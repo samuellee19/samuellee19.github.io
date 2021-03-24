@@ -14,7 +14,7 @@ interests:
 - Machine Learning
 organizations:
 - name: Claremont McKenna College
-  url: https://www.cmc.edu/qcl/fellows
+  url: https://www.cmc.edu/qcl/staff
 role: Undergraduate Fellow at Murty Sunak Quantitative and Computing Lab
 social:
 - icon: envelope
