@@ -23,6 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-01-16"
+  description: "Certificate ID: 158595097570"
+  organization: Bloomberg
+  organization_url: https://www.bloomberg.com/professional/product/bloomberg-market-concepts/
+  title: Bloomberg Market Concepts
+  url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/professional-cert/S9QQ4ZC67XH3
+  date_end: ""
+  date_start: "2021-05-21"
+  description: ""
+  organization: Google
+  organization_url: https://grow.google/dataanalytics/
+  title: Google Data Analytics Professional Certificate
+  url: ""
 - certificate_url: https://udemy-certificate.s3.amazonaws.com/pdf/UC-O4LHNWFD.pdf
   date_end: ""
   date_start: "2020-01-22"
@@ -31,20 +47,5 @@ item:
   organization_url: https://www.udemy.com/
   title: Python For Financial Analysis and Algorithmic Trading
   url: ""
-# - certificate_url: https://www.edx.org
-#   date_end: ""
-#   date_start: "2018-03-01"
-#   description: Formulated informed blockchain models, hypotheses, and use cases.
-#   organization: edX
-#   organization_url: https://www.edx.org
-#   title: Blockchain Fundamentals
-#   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-# - certificate_url: https://www.datacamp.com
-#   date_end: "2017-12-21"
-#   date_start: "2017-07-01"
-#   description: ""
-#   organization: DataCamp
-#   organization_url: https://www.datacamp.com
-#   title: 'Object-Oriented Programming in R: S3 and R6 Course'
-#   url: ""
+
 ---
