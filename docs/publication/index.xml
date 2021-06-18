@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Seungho (Samuel) Lee</title>
-    <link>samuel-shlee.com/publication/</link>
-      <atom:link href="samuel-shlee.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>samuellee19.github.io/publication/</link>
+      <atom:link href="samuellee19.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Seungho (Samuel) Lee</copyright><lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/samuel-shlee.com/media/icon_huabfae62f558bb117f86ce0184bb96fcb_146011_512x512_fill_lanczos_center_2.png</url>
+      <url>/samuellee19.github.io/media/icon_huabfae62f558bb117f86ce0184bb96fcb_146011_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>samuel-shlee.com/publication/</link>
+      <link>samuellee19.github.io/publication/</link>
     </image>
     
     <item>
       <title>Feature Investigation for Stock Returns Prediction Using XGBoost and Deep Learning Sentiment Classification</title>
-      <link>samuel-shlee.com/publication/senior-thesis/</link>
+      <link>samuellee19.github.io/publication/senior-thesis/</link>
       <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
-      <guid>samuel-shlee.com/publication/senior-thesis/</guid>
+      <guid>samuellee19.github.io/publication/senior-thesis/</guid>
       <description></description>
     </item>
     
