@@ -1,6 +1,6 @@
 ---
 # An instance of the Accomplishments widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
 
 # This file represents a page section.
@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Certifi&shy;cations'
+title: 'Accomplish&shy;ments'
 subtitle:
 
 # Date format
@@ -35,7 +35,7 @@ item:
   date_end: ""
   date_start: "2021-05-21"
   description: ""
-  organization: Google
+  organization: Coursera
   organization_url: https://grow.google/dataanalytics/
   title: Google Data Analytics Professional Certificate
   url: ""
@@ -48,4 +48,6 @@ item:
   title: Python For Financial Analysis and Algorithmic Trading
   url: ""
 
+design:
+  columns: '2' 
 ---

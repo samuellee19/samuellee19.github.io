@@ -23,16 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Undergraduate Fellow
+    company_logo: cmc-logo
     company: Murty Sunak Quantitative and Computing Lab, Claremont McKenna College
     company_url: 'https://www.cmc.edu/qcl'
     location: Claremont, California
     date_start: '2020-09-21'
-    date_end: ''
+    date_end: '2020-05-15'
     description: |2-
         * Designing, moderating, and running workshops on Stata, R, Tableau, and other quantitative tools for undergraduate students and faculties at Claremont Colleges
         * Analyzing 1,500+ observations of workshop attendance data to find trends and areas of improvement among 6 different demographic groups in Claremont Colleges 
         
   - title: Research Analyst
+    company_logo: BCG_Corporate_Logo
     company: Boston Consulting Group
     company_url: 'http://www.bcg.com/'
     location: Seoul, South Korea
@@ -44,6 +46,7 @@ experience:
         * Supported Residential IoT Product Strategy project by providing competitor analysis of Korean IoT market and ecosystem to identify 3 potential areas of differentiation for Consumer Electronics conglomerate        
 
   - title: Research Assistant
+    company_logo: Kearney_logo
     company: Kearney
     company_url: 'http://www.kearney.co.kr/'
     location: Seoul, South Korea
@@ -55,6 +58,7 @@ experience:
         * Assessed Vietnamese urban households with children and consumption patterns over 12 years to support market entry engagement for a global theme park business
 
   - title: Project Manager - Data Science Clinic
+    company_logo: flex-black
     company: Flexfit LLC
     company_url: 'https://www.flexfit.com/'
     location: Brea, California
@@ -66,6 +70,7 @@ experience:
         * Designed comprehensive data pipeline and presented findings and recommendations to senior executives
 
   - title: Intern, Data & Analytics (DnA)
+    company_logo: EY_logo
     company: Ernst & Young
     company_url: 'https://www.ey.com/'
     location: Seoul, South Korea
@@ -77,6 +82,7 @@ experience:
         * Involved in EY DnA Mid-Year Summit, including training on digital marketing strategy and AI
 
   - title: Intern, Openings & Transitions
+    company_logo: Hyatt_Logo
     company: Hyatt Hotels Corporation
     company_url: 'http://investors.hyatt.com/investor-relations/'
     location: Kowloon, Hong Kong
@@ -88,6 +94,7 @@ experience:
         * Recorded the Monthly General Managers’ and Operations Meetings for possible upsell opportunities and pre-opening progress in the Asia Pacific
 
   - title: Intern, IPO Team
+    company_logo: Samsung_Logo
     company: Samsung Securities
     company_url: 'https://www.samsungsecurities.com/'
     location: Seoul, South Korea
@@ -99,6 +106,7 @@ experience:
         * Participated in a marketing event on raising brand awareness among a local clientele
 
   - title: Summer Intern, Fixed Income Sales
+    company_logo: hsbc
     company: HSBC Securities
     company_url: 'https://www.hsbc.com/who-we-are/our-businesses-and-customers/global-banking-and-markets'
     location: Seoul, South Korea
@@ -109,11 +117,7 @@ experience:
         * Monitored macroeconomic trends in Korean/European markets to assess market volatility in the global bond market, specifically on the Greek government-debt crisis
         * Participated in training courses, regarding HSBC services and securities, such as Foreign Exchange Swap
 
-#   - title: Research Analyst
-#    company: Boston Consulting Group
-#    company_url: 'http://www.bcg.com/'
-#    location: Seoul, South Korea
-#    date_start: '2016-07-01'
-#    date_end: '2016-08-31'
-#    description: Taught electronic engineering and researched semiconductor physics.
+
+design:
+  columns: '2'
 ---
