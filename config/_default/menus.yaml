@@ -4,12 +4,15 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: Stop and Frisk
+    url: https://samuel-shlee.com/econ122_sqf
+    weight: 50
+  - name: Black-Scholes Model
+    url: https://samuel-shlee.com/CSCI145_Option_Pricing
+    weight: 50
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Publications
-    url: '#featured'
-    weight: 50
   - name: Resume
-    url: static/Resume_Seungho_Lee.pdf
-    weight: 50
+    url: uploads/Resume_Seungho_Lee.pdf
+    weight: 20

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finance | Seungho (Samuel) Lee</title>
-    <link>samuellee19.github.io/tag/finance/</link>
-      <atom:link href="samuellee19.github.io/tag/finance/index.xml" rel="self" type="application/rss+xml" />
+    <link>samuel-shlee.com/tag/finance/</link>
+      <atom:link href="samuel-shlee.com/tag/finance/index.xml" rel="self" type="application/rss+xml" />
     <description>Finance</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Seungho (Samuel) Lee</copyright><lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/samuellee19.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/samuel-shlee.com/media/icon_huabfae62f558bb117f86ce0184bb96fcb_146011_512x512_fill_lanczos_center_2.png</url>
       <title>Finance</title>
-      <link>samuellee19.github.io/tag/finance/</link>
+      <link>samuel-shlee.com/tag/finance/</link>
     </image>
     
     <item>
       <title>Deal Proposal and Valuation: PayPal and Square</title>
-      <link>samuellee19.github.io/project/fin460/</link>
+      <link>samuel-shlee.com/project/fin460/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>samuellee19.github.io/project/fin460/</guid>
+      <guid>samuel-shlee.com/project/fin460/</guid>
       <description>&lt;p&gt;The following project was conducted for Mergers &amp;amp; Acquisition course in Fall 2020. The PDF file includes a final pitch deck as well as valuation and deal boundaries assessments.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning Application on the Black-Scholes Model</title>
-      <link>samuellee19.github.io/project/bsm_deep_learning/</link>
+      <link>samuel-shlee.com/project/bsm_deep_learning/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>samuellee19.github.io/project/bsm_deep_learning/</guid>
+      <guid>samuel-shlee.com/project/bsm_deep_learning/</guid>
       <description></description>
     </item>
     

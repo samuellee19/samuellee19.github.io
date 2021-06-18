@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seungho (Samuel) Lee</title>
-    <link>samuellee19.github.io/</link>
-      <atom:link href="samuellee19.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>samuel-shlee.com/</link>
+      <atom:link href="samuel-shlee.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Seungho (Samuel) Lee</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Seungho (Samuel) Lee</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/samuellee19.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/samuel-shlee.com/media/icon_huabfae62f558bb117f86ce0184bb96fcb_146011_512x512_fill_lanczos_center_2.png</url>
       <title>Seungho (Samuel) Lee</title>
-      <link>samuellee19.github.io/</link>
+      <link>samuel-shlee.com/</link>
     </image>
     
     <item>
       <title>Python basics</title>
-      <link>samuellee19.github.io/courses/example/python/</link>
+      <link>samuel-shlee.com/courses/example/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>samuellee19.github.io/courses/example/python/</guid>
+      <guid>samuel-shlee.com/courses/example/python/</guid>
       <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>samuellee19.github.io/courses/example/visualization/</link>
+      <link>samuel-shlee.com/courses/example/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>samuellee19.github.io/courses/example/visualization/</guid>
+      <guid>samuel-shlee.com/courses/example/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -81,9 +81,9 @@ fig.show()
     
     <item>
       <title>Statistics</title>
-      <link>samuellee19.github.io/courses/example/stats/</link>
+      <link>samuel-shlee.com/courses/example/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>samuellee19.github.io/courses/example/stats/</guid>
+      <guid>samuel-shlee.com/courses/example/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -109,9 +109,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Example Talk</title>
-      <link>samuellee19.github.io/talk/example-talk/</link>
+      <link>samuel-shlee.com/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>samuellee19.github.io/talk/example-talk/</guid>
+      <guid>samuel-shlee.com/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -129,51 +129,51 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Feature Investigation for Stock Returns Prediction Using XGBoost and Deep Learning Sentiment Classification</title>
-      <link>samuellee19.github.io/publication/senior-thesis/</link>
+      <link>samuel-shlee.com/publication/senior-thesis/</link>
       <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
-      <guid>samuellee19.github.io/publication/senior-thesis/</guid>
+      <guid>samuel-shlee.com/publication/senior-thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deal Proposal and Valuation: PayPal and Square</title>
-      <link>samuellee19.github.io/project/fin460/</link>
+      <link>samuel-shlee.com/project/fin460/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>samuellee19.github.io/project/fin460/</guid>
+      <guid>samuel-shlee.com/project/fin460/</guid>
       <description>&lt;p&gt;The following project was conducted for Mergers &amp;amp; Acquisition course in Fall 2020. The PDF file includes a final pitch deck as well as valuation and deal boundaries assessments.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>QCL Workshop: Stata Tutorial</title>
-      <link>samuellee19.github.io/project/stata_workshop/</link>
+      <link>samuel-shlee.com/project/stata_workshop/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>samuellee19.github.io/project/stata_workshop/</guid>
+      <guid>samuel-shlee.com/project/stata_workshop/</guid>
       <description>&lt;p&gt;This workshop was designed and commenced in Fall 2020 as an introductory workshop on Stata and Statistical Analysis for the 2020-2021 Academic Year. It was conducted three times (Once in Fall 2020 and Remaining in Spring 2021) with over 20 attendence.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning Application on the Black-Scholes Model</title>
-      <link>samuellee19.github.io/project/bsm_deep_learning/</link>
+      <link>samuel-shlee.com/project/bsm_deep_learning/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>samuellee19.github.io/project/bsm_deep_learning/</guid>
+      <guid>samuel-shlee.com/project/bsm_deep_learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analyzing NYC Stop and Frisk Data from 2003 to 2018 Period</title>
-      <link>samuellee19.github.io/project/econ122_sqf/</link>
+      <link>samuel-shlee.com/project/econ122_sqf/</link>
       <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>samuellee19.github.io/project/econ122_sqf/</guid>
+      <guid>samuel-shlee.com/project/econ122_sqf/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>samuellee19.github.io/admin/config.yml</link>
+      <link>samuel-shlee.com/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>samuellee19.github.io/admin/config.yml</guid>
+      <guid>samuel-shlee.com/admin/config.yml</guid>
       <description></description>
     </item>
     
